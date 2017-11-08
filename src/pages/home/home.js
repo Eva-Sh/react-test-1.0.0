@@ -6,7 +6,7 @@ export default class HomePage extends React.Component {
   render() {
     return (
       <div>
-        <div className="alert">hi</div>
+        <div className="alert alert-succses">главная страница</div>
       </div>
     );
   }
